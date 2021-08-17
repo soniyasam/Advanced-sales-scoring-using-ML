@@ -1,1 +1,1 @@
-# Sales-scoring-dataset
+# Sales-scoring
